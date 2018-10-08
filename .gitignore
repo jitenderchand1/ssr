@@ -1,0 +1,10 @@
+node_modules
+.idea/*
+build
+index.html
+.sass-cache
+bower_components
+logs/*
+.DS_Store
+config.json
+npm-debug.log*
